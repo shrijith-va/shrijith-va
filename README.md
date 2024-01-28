@@ -1,7 +1,7 @@
 ### Aspiring DevOps rookie and coffee adorer 💪
-Hi there I am Shrijith V A, my interests span across:
-Seamless automation in Jenkins, managing clusters in Ansible,
- Containerization -- Docker and Orchestration --Kubernetes 
+Hi there I am **Shrijith V A**, my interests span across:
+Seamless automation in _Jenkins_, managing clusters in _Ansible,_
+ Containerization -- _Docker_ and Orchestration --_Kubernetes_ 
  
 <!--
 **shrijith-va/shrijith-va** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
