@@ -1,5 +1,5 @@
 ### Aspiring DevOps rookie and coffee adorer 💪
-Hi there I am Shrijith V A, my interests are spread around:
+Hi there I am Shrijith V A, my interests span across:
 Seamless automation in Jenkins, managing clusters in Ansible,
  Containerization -- Docker and Orchestration --Kubernetes 
  
